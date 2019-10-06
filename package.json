@@ -1,0 +1,23 @@
+{
+  "name": "thetalabs-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Theta Labs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "body-parser" : "*",
+    "connect-flash" : "*",
+    "cookie-parser" : "^1.4.1",
+    "express-session" : "*",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.10.2",
+    "express-validator": "*",
+  "request": "^2.75.0"
+  }
+}
